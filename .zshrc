@@ -1,2 +1,3 @@
-source $ZSH_CONFIG_DIR/../settings.zsh
-for config ($ZSH_CONFIG_DIR/*.zsh) source $config
+export ZSH_DIR=~/.config/zsh
+source $ZSH_DIR/settings.zsh
+for config ($ZSH_DIR/config/*.zsh) source $config

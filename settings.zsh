@@ -1,2 +1,5 @@
-export ENABLE_TOOLS="true"
-export ZSH_CONFIG_DIR=~/.config/zsh/config
+# Use general CLI packages (ie; fzf, zoxide, bat, etc...)
+ENABLE_PKGS="true"
+
+# Chosen theme
+SELECTED_THEME="catppuccin"

@@ -1,1 +1,1 @@
-source $ZSH_CONFIG_DIR/ext/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $ZSH_DIR/config/ext/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

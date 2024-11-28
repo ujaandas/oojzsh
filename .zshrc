@@ -1,0 +1,1 @@
+for config (~/.config/zsh/.zsh/*.zsh) source $config

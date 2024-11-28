@@ -1,3 +1,6 @@
 [submodule "config/ext/zsh-syntax-highlighting"]
 	path = config/ext/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "config/ext/zsh-autosuggestions"]
+	path = config/ext/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
